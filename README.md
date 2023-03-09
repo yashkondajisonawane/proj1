@@ -25,18 +25,7 @@
 - [Links](#Links)
 - [Acknowledgement](#Acknowledgement)
 
-## Team members
 
-- [Sagar Mude](https://github.com/sagarmude7)
-- [Vedant Mondkar](https://github.com/vdmondkr2002)
-- [Vishal Dange](https://github.com/vishalbdange)
-- [Mohak Chandani](https://github.com/MohakChandani)
-- [Shashank Pagrut](https://github.com/Shashank2370)
-- [Vedant Mankar](https://github.com/VedantMankar)
-
-## Team Mentor
-
-- [Harshil Doshi](https://github.com/Harshil333)
 
 ## Introduction
 
